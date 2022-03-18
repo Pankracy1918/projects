@@ -1,6 +1,5 @@
 import nextcord
 from nextcord.ext import commands
-import random
 import time
 from keep_alive import keep_alive
 from discord.player import FFmpegOpusAudio
